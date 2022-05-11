@@ -1,0 +1,290 @@
+[
+    [
+        "teaspoon vanilla extract",
+        {
+            "entities": [
+                [
+                    9,
+                    24,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "cup white sugar",
+        {
+            "entities": [
+                [
+                    10,
+                    15,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "teaspoon salt",
+        {
+            "entities": [
+                [
+                    9,
+                    13,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "2 teaspoons vanilla extract",
+        {
+            "entities": [
+                [
+                    12,
+                    27,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "2 tsp red wine vinegar",
+        {
+            "entities": [
+                [
+                    15,
+                    22,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 tsp vanilla extract",
+        {
+            "entities": [
+                [
+                    6,
+                    21,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "2 8 ounce blocks fat free cream cheese softened",
+        {
+            "entities": [
+                [
+                    26,
+                    38,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 pint heavy whipping cream",
+        {
+            "entities": [
+                [
+                    20,
+                    27,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "cup melted unsalted butter",
+        {
+            "entities": [
+                [
+                    20,
+                    26,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "025 tsp bicarbonate of soda",
+        {
+            "entities": [
+                [
+                    23,
+                    27,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "125ml buttermilk",
+        {
+            "entities": [
+                [
+                    6,
+                    16,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 cups fat free sour cream",
+        {
+            "entities": [
+                [
+                    21,
+                    26,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "garnish fresh mint sprigs",
+        {
+            "entities": [
+                [
+                    14,
+                    18,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "cup unsalted butter softened",
+        {
+            "entities": [
+                [
+                    13,
+                    19,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "2 egg s free range",
+        {
+            "entities": [
+                [
+                    2,
+                    5,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "cup white sugar",
+        {
+            "entities": [
+                [
+                    10,
+                    15,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "115g self raising white flour",
+        {
+            "entities": [
+                [
+                    24,
+                    29,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "1/2 cup sugar",
+        {
+            "entities": [
+                [
+                    8,
+                    13,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "cup milk",
+        {
+            "entities": [
+                [
+                    4,
+                    8,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 teaspoons baking soda",
+        {
+            "entities": [
+                [
+                    12,
+                    23,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "2 tablespoons all purpose flour",
+        {
+            "entities": [
+                [
+                    26,
+                    31,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 cup fresh or frozen thawed wild blueberries",
+        {
+            "entities": [
+                [
+                    34,
+                    45,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "1/3 cup heavy cream",
+        {
+            "entities": [
+                [
+                    14,
+                    19,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "3 tbsp unsweetened cocoa powder",
+        {
+            "entities": [
+                [
+                    19,
+                    31,
+                    "INGREDIENT"
+                ]
+            ]
+        }
+    ]
+]

@@ -1,0 +1,170 @@
+[
+    {
+
+        "text": "250g packet plain sweet biscuits",
+        "spans": [
+            {   "start": 24,
+                "end": 32,
+                "label": "INGREDIENT"
+            }
+
+        ]
+    },
+    {
+
+        "text": "125g butter melted",
+        "spans": [
+            {
+                "start": 5,
+                "end": 11,
+                "label": "INGREDIENT"
+            }
+        ]
+    },
+    {
+        "text": "2 x 250g packets cream cheese softened",
+        "spans": [
+            {
+                "start": 17,
+                "end": 29,
+                "label": "INGREDIENT"
+            }
+        ]
+    },
+    {
+        "text": "3/4 cup caster sugar",
+        "spans": [
+            {
+                "start": 8,
+                "end": 20,
+                "label": "INGREDIENT"
+            }
+        ]
+    },
+    {
+        "text": "3/4 cup sour cream",
+        "spans": [
+            {
+                "start": 13, 
+                "end": 18, 
+                "label": "INGREDIENT"
+            }
+        ]
+    },
+    {
+        "text": "1 tsp vanilla extract",
+        "spans": [
+            {
+                "start": 6, 
+                "end": 21, 
+                "label": "INGREDIENT"
+            }
+        ]
+    },
+    {
+        "text": "1 tsp finely grated lemon rind",
+        "spans": [
+            {
+                "start": 20, 
+                "end": 25, 
+                "label": "INGREDIENT"
+            }
+        ]
+    },
+    {
+        "text": "frozen raspberries thawed to serve",
+        "spans": [
+            {
+                "start": 7, 
+                "end": 18, 
+                "label": "INGREDIENT"
+            }
+        ]
+    },
+    {
+        "text": "1 1/2 cup digestive biscuits",
+        "spans": [
+            {
+                "start": 20, 
+                "end": 28, 
+                "label": "INGREDIENT"
+            }
+        ]
+    },
+    {
+        "text": "5 tablespoon melted butter",
+        "spans": [{"start": 20, "end": 26, "label": "INGREDIENT"}]
+    },
+    {
+        "text": "220 gm granulated sugar",
+        "spans": [{"start": 18, "end": 23, "label": "INGREDIENT"}]
+    },
+    {
+        "text": "150 ml heavy cream",
+        "spans": [{"start": 13, "end": 18, "label": "INGREDIENT"}]
+    },
+    {
+        "text": "2 tablespoon corn starch",
+        "spans": [{"start": 13, "end": 24, "label": "INGREDIENT"}]
+    },
+    {
+        "text": "2 1/2 tablespoon granulated sugar",
+        "spans": [{"start": 28, "end": 33, "label": "INGREDIENT"}]
+    },
+    {
+        "text": "850 gm cream cheese",
+        "spans": [{"start": 7, "end": 19, "label": "INGREDIENT"}]
+    },
+    {
+        "text": "4 egg",
+        "spans": [{"start": 2, "end": 5, "label": "INGREDIENT"}]
+    },
+    {
+        "text": "2 teaspoon vanilla extract",
+        "spans": [{"start": 11, "end": 26, "label": "INGREDIENT"}]
+    },
+    {
+        "text": "1/2 teaspoon lemon essence",
+        "spans": [{"start": 13, "end": 18, "label": "INGREDIENT"}]
+    },
+    {
+        "text": "1 cups graham cracker crumbs",
+        "spans": [{"start": 7, "end": 21, "label": "INGREDIENT"}]
+    },
+    {
+        "text": "cup butter melted",
+        "spans": [{"start": 4, "end": 10, "label": "INGREDIENT"}]
+    },
+    {
+        "text": "cup white sugar",
+        "spans": [{"start": 10, "end": 15, "label": "INGREDIENT"}]
+    },
+    {
+        "text": "3 8 ounce packages cream cheese room temperature",
+        "spans": [{"start": 19, "end": 31, "label": "INGREDIENT"}]
+    },
+    {
+        "text": "4 eggs room temperature",
+        "spans": [{"start": 2, "end": 6, "label": "INGREDIENT"}]
+    },
+    {
+        "text": "1 tablespoon vanilla extract",
+        "spans": [{"start": 13, "end": 28, "label": "INGREDIENT"}]
+    },
+    {
+        "text": "1 cup white sugar",
+        "spans": [{"start": 12, "end": 17, "label": "INGREDIENT"}]
+    },
+    {
+        "text": "1 teaspoon cream of tartar",
+        "spans": [{"start": 11, "end": 26, "label": "INGREDIENT"}]
+    },
+    {
+        "text": "1 pint sour cream",
+        "spans": [{"start": 12, "end": 17, "label": "INGREDIENT"}]
+    },
+    {
+        "text": "cup white sugar",
+        "spans": [{"start": 10, "end": 15, "label": "INGREDIENT"}]
+    }
+]
